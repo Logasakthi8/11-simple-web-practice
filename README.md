@@ -1,4 +1,4 @@
-# Yoga
+# SImple Web practice
 
 _35 group website project_
 
